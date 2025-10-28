@@ -87,3 +87,4 @@ compras.append('frijoles')
 print(f'La lista de compras ahora contiene {compras}')
 compras.sort()
 print(f'La lista de compras contiene {compras}')
+
